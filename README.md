@@ -14,7 +14,7 @@ Funciona muy bien para modificar pases
 ## Como usar?
 
 1) En el archivo data.json en el parametro "cookie" debe poner el valor de su cookie (.ROBLOXSECURITY).
-2) Para modificar pases de juegos se nesesita la id del universo de tu juego, para conseguirla puedes ir a esta [api]("https://apis.roblox.com/universes/v1/places/(Inserte aqui la id de el juego)/universe") y te dira la id de universo de tu juego.
+2) Para modificar pases de juegos se nesesita la id del universo de tu juego, para conseguirla puedes ir a esta [api](https://apis.roblox.com/universes/v1/places/0/universe) y te dira la id de universo de tu juego.
 3) Con la id de universo, debes de introducirla en el archivo data.json en el parametro "UniverseId".
 4) Este proyecto no puede crear pases de juegos a si que debes de crear la cantidad de pases que vas crear con este proyecto.
 5) Una vez creados los pases, ya solo te falta ejecutarlo y funcionará.
