@@ -1,0 +1,14 @@
+{
+    "cookie": "",
+    
+    "UniverseId": 0, 
+    
+    "passes": [
+        {
+            "name": "Example",
+            "description": "This is a example",
+            "price": 50,
+            "file": "./assets/example.png"
+        }
+    ]
+}

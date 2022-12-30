@@ -1,0 +1,15 @@
+{
+  "name": "game-pass-roblox-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ALEIXMINE17",
+  "license": "ISC",
+  "dependencies": {
+    "noblox.js": "4.13.1"
+  }
+}
